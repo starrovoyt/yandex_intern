@@ -21,6 +21,6 @@ $ mono Solution.exe tests/standart_test.tsv
 
 ### "Unit" test
 in *tests/* you may see different test:
-1) standart_test.tsv - 1000 correct random records
-2) million_test.tsv - 2 * 10 ** 6 random correct records - everything is ok, works long, but steadily
+1) standart_test.tsv - 999 correct random records
+2) million_test.tsv - 10 ** 6 - 1 random correct records - everything is ok, works long, but steadily
 3) wrong_test.tsv - 14 record, 9 uncorrect 
