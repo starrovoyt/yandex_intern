@@ -1,4 +1,8 @@
-# Test Yandex Task
+# Yandex-Internship Application Task
+
+**About:** my solution of yandex test task: C# and work with databases.
+
+**How to run:**
 
 0) Requirement - mono-msc:
 ```sh
